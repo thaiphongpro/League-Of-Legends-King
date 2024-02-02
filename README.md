@@ -14,7 +14,7 @@ Tóm lại, tài liệu học tập không chỉ là công cụ hỗ trợ quan 
 <h2>Về C</h2>
 <li><b>Ngôn ngữ lập trình C</b> là một ngôn ngữ lập trình máy tính <b>được phát triển từ năm 1972 bởi Dennis Ritchie tại Bell Labs</b>. C là một ngôn ngữ lập trình cấp cao và cũng có thể được xem xét là một ngôn ngữ lập trình hợp ngữ vì nó cung cấp nhiều tính năng mạnh mẽ và linh hoạt, đồng thời vẫn giữ được hiệu suất cao.</li>
 
-<li><b>Ngôn ngữ C</b>đã tạo ra nền tảng cho nhiều ngôn ngữ lập trình khác như C++, C#, và Objective-C. Nó được sử dụng rộng rãi trong phát triển phần mềm hệ thống, ứng dụng nhúng, và nhiều lĩnh vực khác nhau. Cung cấp khả năng kiểm soát cấp thấp đến cấp cao và có cú pháp dễ đọc, C là một trong những ngôn ngữ lập trình quan trọng và được sử dụng rộng rãi trong cộng đồng lập trình.</li>
+<li><b>Ngôn ngữ C </b>đã tạo ra nền tảng cho nhiều ngôn ngữ lập trình khác như C++, C#, và Objective-C. Nó được sử dụng rộng rãi trong phát triển phần mềm hệ thống, ứng dụng nhúng, và nhiều lĩnh vực khác nhau. Cung cấp khả năng kiểm soát cấp thấp đến cấp cao và có cú pháp dễ đọc, C là một trong những ngôn ngữ lập trình quan trọng và được sử dụng rộng rãi trong cộng đồng lập trình.</li>
 
 <h2>Update</h2>
  February 1, 2024
