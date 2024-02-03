@@ -40,4 +40,4 @@ int main()
 //  if(điều kiện){…}else{…}
 //  if(điều kiện 1){…} …else if(điều kiện i){…}…else{…}
 
-// Switch 
+// Switch
