@@ -32,7 +32,7 @@ void songuyenn(){
 	
 	int tong=0;
 	for(i=1;i<=n;i++){
-		if(i%3==0){
+		if(i%2!=0){
 			tong=tong+i;
 		}
 	}
@@ -45,11 +45,11 @@ void songuyenn(){
 	}
 	
 	for(i;i<=n;i++){
-		if(i%3==0 && i%2==0){
+		if(i%3==0 && i%2!=0){
 			count++;
 		}
 	}
-	printf("\nCo %d so chia het cho 3 hoac la so chan trong khaong tu 1 den n la: %d.\n",count,n);
+	printf("\nCo %d so chia het cho 3 hoac la so chan trong khoang tu 1 den n la: %d.\n",count,n);
 
 }
 
